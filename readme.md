@@ -1,5 +1,8 @@
 # Uncovering Implicit Discrimination in Information Delivery and Its Elimination
 
+# environment:
+Linux 18.04 python 3.6
+
 # Note: 
 We provide the processed dataset at data/.
 For news-recommendation (MIND) dataset, please download from https://msnews.github.io/ and store it in Dataset/news/. Then you can run the process file on your own:
