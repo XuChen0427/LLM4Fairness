@@ -1,4 +1,6 @@
-# Uncovering Implicit Discrimination in Information Delivery and Its Elimination
+# Underlying Discrimination in New-generation Information Delivery
+
+## any question, please mail to xc_chen@ruc.edu.cn
 
 # environment:
 Linux 18.04 python 3.6
